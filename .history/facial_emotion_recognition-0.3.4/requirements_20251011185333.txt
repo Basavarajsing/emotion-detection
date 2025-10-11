@@ -1,0 +1,5 @@
+torch>=1.4.0
+facenet-pytorch
+opencv-python>=3.4.2
+numpy>=1.18.1
+torchvision
